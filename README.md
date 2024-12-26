@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadmirfa&label=Profile%20views&color=0e75b6&style=flat" alt="fahadmirfa" /> </p>
 
-- 🔭 I’m currently working on **Masjid Wall clock APP**
+- 🔭 I’m currently working on a Job at **Software Organizing System as a ( Software Implementation Officer and Associate Software Engineer )** 
 
 - 🌱 I’m currently learning **Kotlin Advanced**
 
-- 🌱 I’m Sucessfully delivered **5 Android Apps on PlayStore**
+- 🌱 I’m Sucessfully delivered ** 7+ Android Apps on PlayStore**
 
 - 👯 I’m already collaborate on [Site Audit App](https://github.com/fahadmirfa/site_audit)
 
