@@ -1,9 +1,8 @@
-
 <h1 align="center">👋 Hi, I'm Mirza Fahad</h1>
 <h3 align="center">Project Manager | Flutter & Kotlin Developer | AI/ML Explorer | Building Scalable Digital Solutions at SOS Pakistan</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fahadmirfa&label=Profile%20Views&color=6f42c1&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=fahadmirfa&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnN4YjZvOWdwZ2tmZTgwbGE2cmN0NHZ1NHRuZDJkMTdyajgxbDB2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif">
@@ -19,14 +18,14 @@
   - **IMS** — Invoice Management System  
   - **AMS** — Asset Management System  
   - **CDTS** — Cash Disbursement & Transaction System  
-- Managing ERP system integrations, process automation, and operational flows  
+- Managing ERP integrations, process automation, and operational workflows  
 - Driving collaboration between design, development, and operations teams  
-- Overseeing project planning, progress tracking, and successful deployment  
+- Overseeing project planning, tracking, and successful product delivery  
 
 ### 📱 **Android Developer (Flutter & Kotlin)** — [JEUX DEVELOPERS](https://jeuxdevelopers.com/) *(1 year)*
-- Developed and deployed cross-platform mobile applications using **Flutter** and **Kotlin**  
+- Developed and deployed cross-platform mobile apps using **Flutter** and **Kotlin**  
 - Integrated **Firebase**, **REST APIs**, and implemented secure local storage  
-- Ensured pixel-perfect UI and seamless deployment on the **Play Store**  
+- Focused on performance optimization, UI/UX polish, and seamless Play Store deployment  
 
 ---
 
@@ -48,16 +47,16 @@ System Integration • UI/UX Strategy • AI/ML Exploration
 
 | Project | Description |
 |----------|--------------|
-| **Fleet Management System (FMS)** | Complete vehicle tracking, maintenance, and resource allocation system |
-| **Fleet Operation Management (FOM)** | Operational control and logistics management platform |
-| **Invoice Management System (IMS)** | Automated billing, invoice tracking, and financial reporting system |
-| **Asset Management System (AMS)** | Centralized system for managing and monitoring company assets |
-| **Cash Disbursement & Transaction System (CDTS)** | Secure and transparent digital disbursement workflow |
-| **Site Audit App** | Mobile solution for property inspection and audit reports |
+| **Fleet Management System (FMS)** | Vehicle tracking, maintenance, and resource allocation platform |
+| **Fleet Operation Management (FOM)** | Operational control and logistics management solution |
+| **Invoice Management System (IMS)** | Automated billing, invoice tracking, and reporting tool |
+| **Asset Management System (AMS)** | Centralized platform for managing and monitoring company assets |
+| **Cash Disbursement & Transaction System (CDTS)** | Secure, transparent, and auditable digital disbursement workflow |
+| **Site Audit App** | Mobile solution for inspection and audit reporting |
 | **InstaSaver App** | Media downloader and content manager for Instagram |
-| **House Rent App** | Android app for listing and renting residential properties |
-| **QR Scanner App** | Lightweight, secure, and fast Flutter-based scanner |
-| **SOS Website Flows** | Designed end-to-end workflow diagrams for company websites |
+| **House Rent App** | Property listing and rental discovery app |
+| **QR Scanner App** | Lightweight, fast, and secure Flutter-based scanner |
+| **SOS Website Flows** | Process flow design for internal web applications |
 
 🔗 **Portfolio:** [mirfa.online](https://mirfa.online)
 
@@ -66,7 +65,7 @@ System Integration • UI/UX Strategy • AI/ML Exploration
 ## 💬 Let’s Connect
 
 - 💡 Ask me about **Flutter, Kotlin, Firebase, Python (AI/ML)**  
-- 🧩 Passionate about **ERP Development, Project Management, and System Automation**  
+- 🧩 Passionate about **ERP Development, Project Management, and Automation Systems**  
 - 📫 Reach me at: **[mirzafahad141500@gmail.com](mailto:mirzafahad141500@gmail.com)**  
 - ⚡ **Fun Fact:** *AI can predict flu outbreaks faster than traditional tracking methods!* 🤖  
 
@@ -75,9 +74,9 @@ System Integration • UI/UX Strategy • AI/ML Exploration
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahadmirfa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadmirfa&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadmirfa&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fahadmirfa&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=fahadmirfa&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadmirfa&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" />
 </div>
 
 ---
@@ -89,7 +88,7 @@ System Integration • UI/UX Strategy • AI/ML Exploration
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
   </a>
   <a href="mailto:mirzafahad141500@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
