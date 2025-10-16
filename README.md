@@ -76,7 +76,7 @@ System Integration • UI/UX Strategy • AI/ML Exploration
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fahadmirfa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadmirfa&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=fahadmirfa&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadmirfa&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
 </div>
 
