@@ -5,12 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=fahadmirfa&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
-
-
-
+---
 
 # 💼 Professional Experience
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnN4YjZvOWdwZ2tmZTgwbGE2cmN0NHZ1NHRuZDJkMTdyajgxbDB2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif">
+
+<img align="right" alt="Coding" width="380" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnN4YjZvOWdwZ2tmZTgwbGE2cmN0NHZ1NHRuZDJkMTdyajgxbDB2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif">
+
 ### 🚀 **Project Manager & Associate Software Engineer** — [SOS Pakistan](https://sosworld.com.pk/sos-pakistan/) *(9+ months)*
 - Leading and managing multiple enterprise modules, including:  
   - **FMS** — Fleet Management System  
