@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=fahadmirfa&label=Profile%20Views&color=6f42c1&style=flat-square" alt="Profile Views" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2UzNmcwdHA2cnNxdXNzcmJybHZocHlpOTRvdng0NWNqcTg3ZmJyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOEbLRT4SwD35IELiQ/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnN4YjZvOWdwZ2tmZTgwbGE2cmN0NHZ1NHRuZDJkMTdyajgxbDB2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif">
 
 ---
 
