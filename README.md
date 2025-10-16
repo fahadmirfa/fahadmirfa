@@ -1,7 +1,6 @@
-![Banner](https://github.com/fahadmirfa/fahadmirfa/blob/main/Becholars%20in%20Computer%20Science%20(1).png)
 
 <h1 align="center">👋 Hi, I'm Mirza Fahad</h1>
-<h3 align="center">Flutter & Kotlin Developer | AI/ML Enthusiast | Project Manager @ SOS Pakistan</h3>
+<h3 align="center">Project Manager | Flutter & Kotlin Developer | AI/ML Explorer | Building Scalable Digital Solutions at SOS Pakistan</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fahadmirfa&label=Profile%20Views&color=6f42c1&style=flat-square" alt="Profile Views" />
