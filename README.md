@@ -22,7 +22,8 @@
 - Driving collaboration between design, development, and operations teams  
 - Overseeing project planning, tracking, and successful product delivery  
 
-### 📱 **Android Developer (Flutter & Kotlin)** — [JEUX DEVELOPERS](https://jeuxdevelopers.com/) *(1 year)*
+### 📱 **Android Developer (Flutter & Kotlin)** — [JEUX DEVELOPERS](https://jeuxdevelopers.com/) 
+*(1 year)*
 - Developed and deployed cross-platform mobile apps using **Flutter** and **Kotlin**  
 - Integrated **Firebase**, **REST APIs**, and implemented secure local storage  
 - Focused on performance optimization, UI/UX polish, and seamless Play Store deployment  
