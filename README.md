@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/fahadmirfa/fahadmirfa/blob/main/Gemini_Generated_Image_7uywti7uywti7uyw.png" alt="Mirza Fahad Banner" width="100%" />
+</p>
 <h1 align="center">👋 Hi, I'm Mirza Fahad</h1>
 <h3 align="center">Project Manager | Flutter & Kotlin Developer | AI/ML Explorer | Building Scalable Digital Solutions at SOS Pakistan</h3>
 
