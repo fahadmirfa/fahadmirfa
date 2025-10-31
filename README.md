@@ -72,7 +72,7 @@ System Integration • UI/UX Strategy • AI/ML Exploration
 
 - 💡 Ask me about **Flutter, Kotlin, Firebase, Python (AI/ML)**  
 - 🧩 Passionate about **ERP Development, Project Management, and Automation Systems**  
-- 📫 Reach me at: **[mirzafahad141500@gmail.com](mailto:mirzafahad141500@gmail.com)**  
+- 📫 Reach me at: **[fahadahmadsultanofficial@gmail.com](mailto:fahadahmadsultanofficial@gmail.com)**  
 - ⚡ **Fun Fact:** *AI can predict flu outbreaks faster than traditional tracking methods!* 🤖  
 
 ---
