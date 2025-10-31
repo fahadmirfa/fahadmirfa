@@ -25,11 +25,14 @@
 - Driving collaboration between design, development, and operations teams  
 - Overseeing project planning, tracking, and successful product delivery  
 
-### 📱 **Android Developer (Flutter & Kotlin)** — [JEUX DEVELOPERS](https://jeuxdevelopers.com/) 
+### 🧩 **Junior Project Manager** — [JEUX DEVELOPERS](https://jeuxdevelopers.com/) 
 *(1 year)*
-- Developed and deployed cross-platform mobile apps using **Flutter** and **Kotlin**  
-- Integrated **Firebase**, **REST APIs**, and implemented secure local storage  
-- Focused on performance optimization, UI/UX polish, and seamless Play Store deployment  
+- Assisted in planning, organizing, and managing multiple mobile app development projects  
+- Coordinated between designers, developers, and QA teams to ensure timely delivery  
+- Defined project milestones, tracked progress, and handled sprint planning  
+- Conducted client communication, requirement gathering, and progress reporting  
+- Contributed to **Flutter** and **Kotlin** projects for app maintenance and feature enhancements  
+- Focused on improving team workflows and communication efficiency  
 
 ---
 
@@ -42,7 +45,7 @@ Flutter • Dart • Kotlin • Python • Firebase • REST APIs
 Git • GitHub • Figma • Android Studio • Postman  
 
 **Core Expertise:**  
-Mobile App Development • ERP & Workflow Design • Project Management •  
+Project Management • ERP & Workflow Design • Mobile App Development •  
 System Integration • UI/UX Strategy • AI/ML Exploration  
 
 ---
