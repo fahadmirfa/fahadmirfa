@@ -65,7 +65,6 @@ System Integration • UI/UX Strategy • AI/ML Exploration
 | **QR Scanner App** | Lightweight, fast, and secure Flutter-based scanner |
 | **SOS Website Flows** | Process flow design for internal web applications |
 
-🔗 **Portfolio:** [mirfa.online](https://mirfa.online)
 
 ---
 
