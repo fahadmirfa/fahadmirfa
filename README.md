@@ -93,7 +93,7 @@ System Integration • UI/UX Strategy • AI/ML Exploration
   <a href="https://stackoverflow.com/users/22653921" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
   </a>
-  <a href="mailto:mirzafahad141500@gmail.com" target="_blank">
+  <a href="mailto:fahadahmadsultanofficial@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
