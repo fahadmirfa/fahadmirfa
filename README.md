@@ -1,157 +1,233 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B61FF,100:00FFB2&height=220&section=header&text=Mirza%20Fahad&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Project%20Manager%20%7C%20Flutter%20%26%20Kotlin%20%7C%20AI%2FML%20Explorer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:0D1117&height=20&section=header" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fahadmirfa&label=Profile%20Views&color=7B61FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/fahadmirfa?label=Followers&style=for-the-badge&color=00FFB2&labelColor=0D1117" alt="Followers" />
-  <img src="https://img.shields.io/badge/Open%20To-Opportunities-00FFB2?style=for-the-badge&labelColor=0D1117" alt="Open To Work" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:7B61FF,100:00FFB2&height=160&section=header&text=MIRZA%20FAHAD&fontSize=72&fontColor=ffffff&fontAlignY=55&animation=blinking" width="100%"/>
 </p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFB2&center=true&vCenter=true&width=700&lines=Technical+Project+Manager;Flutter+%26+Mobile+Engineering;Enterprise+ERP+Architect;AI+%26+Automation+Explorer;Product+Thinker+%7C+Systems+Builder" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fahadmirfa&label=Profile+Views&color=7B61FF&style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/fahadmirfa?label=Followers&style=flat-square&color=00FFB2&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00FFB2?style=flat-square&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Based%20in-Lahore%2C%20Pakistan-7B61FF?style=flat-square&labelColor=0D1117" />
+</p>
+
+<br/>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnN4YjZvOWdwZ2tmZTgwbGE2cmN0NHZ1NHRuZDJkMTdyajgxbDB2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif">
+<br/>
 
-### 👋 About Me
+## `$ whoami`
 
-```yaml
-name     : Mirza Fahad
-location : Lahore, Pakistan 🇵🇰
-role     : Project Manager & Associate Software Engineer
-company  : SOS Pakistan
-experience:
-  - 9+ months @ SOS Pakistan  (Enterprise ERP Systems)
-  - 1 year    @ JEUX Developers (Mobile App Projects)
-passion:
-  - Flutter & Dart
-  - Kotlin (Android Native)
-  - Python & AI/ML Exploration
-  - ERP Design & Workflow Automation
-contact  : fahadahmadsultanofficial@gmail.com
-fun_fact : AI can predict flu outbreaks faster
-           than traditional tracking methods! 🤖
+<img align="right" alt="Engineering" width="340" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnN4YjZvOWdwZ2tmZTgwbGE2cmN0NHZ1NHRuZDJkMTdyajgxbDB2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"/>
+
+```typescript
+const fahad = {
+  name:       "Mirza Fahad",
+  location:   "Lahore, Pakistan 🇵🇰",
+  role:       "Technical PM & Associate Software Engineer",
+  company:    "SOS Pakistan",
+
+  expertise: [
+    "Enterprise ERP Architecture",
+    "Mobile Engineering (Flutter · Dart · Kotlin)",
+    "Cross-functional Team Leadership",
+    "Product Delivery & Workflow Automation",
+    "AI/ML Exploration & Integration",
+  ],
+
+  currentFocus: [
+    "Scaling enterprise ERP modules",
+    "Deepening Python & AI tooling",
+    "Building automation-first workflows",
+  ],
+
+  contact: "fahadahmadsultanofficial@gmail.com",
+};
 ```
 
 <br clear="right"/>
 
----
-
-# 💼 Professional Experience
-
-### 🚀 Project Manager & Associate Software Engineer — [SOS Pakistan](https://sosworld.com.pk/sos-pakistan/) *(9+ months)*
-
-| Module | Full Name | Description |
-|:------:|-----------|-------------|
-| **FMS** | Fleet Management System | Vehicle tracking, maintenance & resource allocation |
-| **FOM** | Fleet Operation Management | Operational control & logistics management |
-| **IMS** | Invoice Management System | Automated billing, tracking & reporting |
-| **AMS** | Asset Management System | Centralized asset monitoring platform |
-| **CDTS** | Cash Disbursement & Transaction System | Secure, auditable digital disbursement workflow |
-
-> 🔧 ERP integrations · Process automation · Cross-team collaboration · Product delivery
+<br/>
 
 ---
 
-### 🧩 Junior Project Manager — [JEUX Developers](https://jeuxdevelopers.com/) *(1 year)*
+<br/>
 
-- 📋 Sprint planning, milestone tracking, client communication & requirement gathering
-- 🤝 Coordinated designers, developers & QA teams for on-time delivery
-- 📱 Contributed to **Flutter** & **Kotlin** app development and maintenance
-- ⚡ Improved team workflows and communication efficiency
+## Experience
+
+<br/>
+
+### SOS Pakistan — *Technical Project Manager & Associate Software Engineer*
+`Oct 2024 – Present · Lahore, Pakistan`
+
+> Owning end-to-end delivery of mission-critical enterprise ERP modules serving operational and financial workflows across the organization.
+
+| System | Full Name | Impact |
+|--------|-----------|--------|
+| **FMS** | Fleet Management System | Real-time vehicle tracking, predictive maintenance scheduling & resource optimization |
+| **FOM** | Fleet Operation Management | Centralized logistics control, dispatch coordination & operational analytics |
+| **IMS** | Invoice Management System | Automated billing pipelines, reconciliation workflows & audit-ready reporting |
+| **AMS** | Asset Management System | Enterprise-wide asset lifecycle tracking & utilization intelligence |
+| **CDTS** | Cash Disbursement & Transaction System | Secure, auditable digital disbursement with full transaction traceability |
+
+**Scope of delivery:** ERP integration · Process automation · Stakeholder alignment · Agile sprint management · Technical documentation · Cross-team coordination
+
+<br/>
+
+### JEUX Developers — *Junior Project Manager*
+`2023 – 2024 · ~1 Year`
+
+> Led agile delivery cycles for mobile app products, coordinating between design, engineering, and QA to ship on time and within scope.
+
+- Owned sprint planning, milestone tracking, backlog grooming & client-facing requirement sessions
+- Bridged communication between designers, developers and QA — consistently improving team throughput
+- Contributed to Flutter and Kotlin app development alongside project management responsibilities
+- Designed internal workflow improvements that reduced coordination overhead significantly
+
+<br/>
 
 ---
 
-## 🧠 Skills & Technologies
+<br/>
 
-**Languages & Frameworks**
+## Technical Architecture
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<br/>
 
-**Tools & Platforms**
+**Core Engineering**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**Core Expertise**
+**Toolchain**
 
-![Project Management](https://img.shields.io/badge/Project%20Management-7B61FF?style=for-the-badge&logo=notion&logoColor=white)
-![ERP Systems](https://img.shields.io/badge/ERP%20Systems-00FFB2?style=for-the-badge&logo=sap&logoColor=black)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-FF9500?style=for-the-badge&logo=openai&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX%20Strategy-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Domains**
+
+![Project Management](https://img.shields.io/badge/Project%20Management-7B61FF?style=flat-square&logo=notion&logoColor=white)
+![ERP Systems](https://img.shields.io/badge/ERP%20Architecture-00FFB2?style=flat-square&logo=sap&logoColor=black)
+![AI/ML](https://img.shields.io/badge/AI%20%26%20Automation-FF9500?style=flat-square&logo=openai&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX%20Strategy-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Mobile](https://img.shields.io/badge/Mobile%20Engineering-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+<br/>
 
 ---
 
-## 🌟 Featured Projects
+<br/>
+
+## Projects
+
+<br/>
+
+**Enterprise Systems — SOS Pakistan**
+
+| Project | Description |
+|---------|-------------|
+| Fleet Management System | Full-stack vehicle tracking, maintenance scheduling & resource allocation platform |
+| Fleet Operation Management | Logistics command center with operational analytics and dispatch management |
+| Invoice Management System | End-to-end automated billing, invoice lifecycle tracking & financial reporting |
+| Asset Management System | Company-wide asset registration, monitoring & lifecycle management solution |
+| Cash Disbursement & Transaction System | Secure, transparent disbursement engine with complete audit trail |
+
+<br/>
+
+**Mobile Applications — Flutter**
+
+| App | Description |
+|-----|-------------|
+| Site Audit App | Field inspection and audit reporting tool with structured data capture |
+| InstaSaver | Media content downloader and manager for Instagram |
+| House Rent App | Property listing and rental discovery platform |
+| QR Scanner | Lightweight, performant barcode and QR scanning application |
+
+<br/>
+
+**Web & Process Design**
+
+| Project | Description |
+|---------|-------------|
+| SOS Website Flows | UX flow design and architecture for internal web-based applications |
+
+<br/>
+
+---
+
+<br/>
+
+## GitHub Analytics
+
+<br/>
 
 <div align="center">
-
-| 🏷️ Project | 📦 Type | 📝 Description |
-|------------|---------|----------------|
-| **Fleet Management System (FMS)** | 🏢 Enterprise | Vehicle tracking, maintenance & resource allocation platform |
-| **Fleet Operation Management (FOM)** | 🏢 Enterprise | Operational control and logistics management solution |
-| **Invoice Management System (IMS)** | 🏢 Enterprise | Automated billing, invoice tracking & reporting tool |
-| **Asset Management System (AMS)** | 🏢 Enterprise | Centralized platform for managing & monitoring company assets |
-| **Cash Disbursement & Transaction (CDTS)** | 🏢 Enterprise | Secure, transparent & auditable digital disbursement workflow |
-| **Site Audit App** | 📱 Flutter | Mobile solution for inspection & audit reporting |
-| **InstaSaver App** | 📱 Flutter | Media downloader & content manager for Instagram |
-| **House Rent App** | 📱 Flutter | Property listing & rental discovery app |
-| **QR Scanner App** | 📱 Flutter | Lightweight, fast & secure barcode scanner |
-| **SOS Website Flows** | 🌐 Web | Process flow design for internal web applications |
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahadmirfa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFB2&icon_color=7B61FF&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadmirfa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=C9D1D9&langs_count=8" />
-</div>
-
-<div align="center">
-  <img width="96%" src="https://streak-stats.demolab.com?user=fahadmirfa&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFB2&ring=7B61FF&fire=00FFB2&currStreakLabel=00FFB2&sideLabels=C9D1D9&dates=6B6B80" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=fahadmirfa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFB2&icon_color=7B61FF&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+  &nbsp;
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadmirfa&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=C9D1D9&langs_count=8" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fahadmirfa&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+  <img width="94%" src="https://streak-stats.demolab.com?user=fahadmirfa&hide_border=true&background=0D1117&stroke=1a1a2e&ring=7B61FF&fire=00FFB2&currStreakLabel=00FFB2&sideLabels=C9D1D9&dates=6B6B80&sideNums=ffffff&currStreakNum=ffffff" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=fahadmirfa&bg_color=0D1117&color=00FFB2&line=7B61FF&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fahadmirfa&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=fahadmirfa&bg_color=0D1117&color=00FFB2&line=7B61FF&point=ffffff&area=true&area_color=7B61FF&hide_border=true" />
+</div>
+
+<br/>
 
 ---
 
-## 📈 Contribution Snake
+<br/>
+
+## Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fahadmirfa/fahadmirfa/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<!-- Setup required: see workflow below -->
+  <img src="https://raw.githubusercontent.com/fahadmirfa/fahadmirfa/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+
 </div>
 
 <details>
-<summary>⚙️ How to enable the Snake animation</summary>
+<summary><b>Snake workflow setup</b></summary>
 <br/>
 
-Create `.github/workflows/snake.yml` in your repo:
+Create `.github/workflows/snake.yml`:
 
 ```yaml
-name: Generate Snake
+name: Contribution Snake
 
 on:
   schedule:
@@ -178,32 +254,46 @@ jobs:
 
 </details>
 
+<br/>
+
 ---
 
-## 💬 Let's Connect
+<br/>
+
+## Connect
 
 <p align="center">
   <a href="mailto:fahadahmadsultanofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/22653921" target="_blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-  </a>
-  <a href="https://github.com/fahadmirfa" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-fahadahmadsultanofficial%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117" />
   </a>
 </p>
 
 <p align="center">
-  💡 Ask me about <b>Flutter, Kotlin, Firebase, Python (AI/ML)</b><br/>
-  🧩 Passionate about <b>ERP Development, Project Management & Automation</b><br/>
-  ⚡ <i>"AI can predict flu outbreaks faster than traditional tracking methods!"</i> 🤖
+  <a href="https://github.com/fahadmirfa">
+    <img src="https://img.shields.io/badge/GitHub-fahadmirfa-181717?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" />
+  </a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/22653921">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-Profile-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&labelColor=0D1117" />
+  </a>
 </p>
+
+<br/>
 
 ---
 
+<br/>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB2,100:7B61FF&height=130&section=footer&animation=fadeIn" width="100%"/>
+  <sub>Open to roles in Technical Project Management · Mobile Engineering · Enterprise Systems · Product & AI</sub>
 </p>
 
-<h3 align="center">✨ "Code with purpose, lead with vision." ✨</h3>
+<p align="center">
+  <i>"Build systems that scale. Lead teams that ship."</i>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB2,100:7B61FF&height=100&section=footer&animation=fadeIn" width="100%"/>
+</p>
